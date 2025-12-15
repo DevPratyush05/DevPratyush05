@@ -10,10 +10,10 @@
     <a href="https://pratyush-web.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
     </a>
-    <a href="mailto:psinha20005@gmail.com">
+    <a href="mailto:psinha20005@gmail.com"  target="_blank">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
     </a>
-    <a href="https://linkedin.com/in/pratyush--sinha">
+    <a href="https://linkedin.com/in/pratyush--sinha"  target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
   </p>
@@ -37,7 +37,7 @@ I am an **Information Technology Undergraduate** passionate about bridging the g
 
 | **Frontend** | **Backend & DB** | **Tools & AI** |
 | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" width="230" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" width="230" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux,postman,figma,vscode" width="230" /></a> |
+| <a href="https://skillicons.dev"  target="_blank"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" width="230" /></a> | <a href="https://skillicons.dev"  target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" width="230" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux,postman,figma,vscode" width="230" /></a> |
 
 </div>
 
